@@ -1,0 +1,85 @@
+@font-face {
+    font-family: "PermanentMarker";
+    src: url("../Fonts/PermanentMarker-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "ArchitectsDaughter";
+    src: url("../Fonts/ArchitectsDaughter-Regular.ttf") format("truetype");
+}
+
+h1, 
+h2,
+.Rainydays_header {  
+    font-family: "PermanentMarker", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #02576d;
+    text-shadow: 2px 2px black
+    
+}
+
+.Rainydays_header {    
+    color: #fff;  
+    font-size: 500%;     
+}
+
+header, 
+footer {
+    background-color: #02576d;
+}
+
+header a {
+    color: #fff;    
+}
+
+.ul {
+    font-family: "ArchitectsDaughter",  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.cta-button {
+    background-color: #02576d;
+    color: #fff;
+}
+
+.feedback {
+    background-color: #f8f5ed;
+}
+
+.jackets {
+    background-color: #fff;    
+}
+
+.cta_style {
+    background-color: #02576d;
+    color: #fff;
+}
+
+.cta_out {
+    background-color: #e20303;
+    color: #fff;
+}
+
+.Quality {
+    background-color: #f8f5ed;    
+}
+
+footer {
+    text-align:center;
+    color: #fff;
+}
+
+nav li {
+    display: inline-block;
+}
+
+.Intro {
+    background-image: url("../Images/Home_Page.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;    
+    min-height: 60vh;
+    background-position-x: right;
+    background-position-y: top;
+}
+
+.Feedback_Images {
+    border-radius: 100px;
+}
